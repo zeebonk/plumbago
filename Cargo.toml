@@ -1,0 +1,6 @@
+[package]
+name = "statsd_client"
+version = "0.1.0"
+authors = ["Gijs van der Voort <vandervoort.gijs@gmail.com>"]
+
+[dependencies]
